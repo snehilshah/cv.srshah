@@ -3,5 +3,5 @@ export const userInfo = {
   sign: 'arsawant',
   email: 'arsawant09@gmail.com',
   linkedIn: 'https://www.linkedin.com/in/arsawant/',
-  description: 'Im a 🦥 who codes',
+  description: 'Computer Engineer | Web Developer',
 };

@@ -42,8 +42,7 @@
 				<b>Languages: </b> C++, Java, JavaScript, Python, Rust, C, Go, HTML, CSS
 			</p>
 			<p>
-				<b>Developer Tools: </b> Git, Linux, VS Code, Visual Studio, Gradle, Maven, Cargo, CMake, Bash,
-				NPM, MacOS
+				<b>Developer Tools: </b> Git, Linux, Visual Studio, NPM 
 			</p>
 			<p>
 				<b>Awards: </b> Tech Expo 2024 Runner Up
@@ -55,74 +54,51 @@
 		<div class="resume-content space-y-5">
 			<div class="space-y-1">
 				<div class="spread">
-					<h3 class="resume-heading">CSI Student Co-ordinator</h3>
-					<p class="text-end">May 2023 - Present</p>
+					<h3 class="resume-heading">Full Stack Developer Intern </h3>
+					<p class="text-end">Nov. 2022 - Apr. 2023</p>
 				</div>
 				<div class="spread">
-					<i>Competitive Programming Club</i>
-					<i>Lynchburg, VA</i>
+					<i>Indian Development Foundation (NGO)</i>
 				</div>
 				<ul class="list-disc list-inside pl-3 pt-1">
 					<li>
-						Prepared weekly presentations on advanced data structures and algorithms to over 40 club
-						members
+						Created backend and handled database administration
 					</li>
-					<li>Taught on advanced C++ and Python concepts relevant to Competitive Programming</li>
-					<li>Managed over $3,000 worth of club assets</li>
-					<li>
-						Initiated Liberty University's first individual programming competition hosted at the
-						university
-					</li>
-					<li>
-						Planned and hosted tryouts for 11 programming teams to determine which teams would
-						represent us at the ICPC
-					</li>
-					<li>Managed 4 club officers and delegated duties for the club to run smoothly</li>
+					<li>Built the logic for the management of all personnel.</li>
+					<li>Simplified the grading system for teachers.</li>
+				
 				</ul>
 			</div>
 			<div class="space-y-1">
 				<div class="spread">
-					<b class="text-xl">Java Engineering Intern</b>
-					<p class="text-end">May 2023 - Aug 2023</p>
+					<b class="text-xl">Software Developer Intern</b>
+					<p class="text-end">Apr 2023 - Nov 2023</p>
 				</div>
 				<div class="spread">
-					<i>IPConfigure Inc.</i>
-					<i>Norfolk, VA</i>
+					<i>Agenda Builder</i>
+					<i>Mumbai</i>
 				</div>
 				<ul class="list-disc list-inside pl-3 pt-1">
-					<li>Produced over 2000 lines of production level code</li>
-					<li>Extended the product API to include multiple new endpoints for data accessibility</li>
+					<li>Created a project planner with complete customizable layout</li>
+					<li>Built all the backend APIs and database connections</li>
 					<li>
-						Worked with 5 developers on the Java team to bring forth a new release with over <b
-							>300 quality assurance tests</b
-						>
-					</li>
-					<li>Wrote over <b>80 unit tests</b> to ensure code stability and long term support</li>
-					<li>
-						Demonstrated exceptional programming knowledge and debugging skills when encountering
-						problems
-					</li>
-					<li>
-						Documented new API endpoints for presentation at team meetings for collaborative
-						feedback
+						Implemented authentication with Google accounts using JWT
 					</li>
 				</ul>
 			</div>
 			<div class="space-y-1">
 				<div class="spread">
-					<b class="text-xl">Full Stack Developer</b>
-					<p class="text-end">July 2023 - September 2023</p>
+					<b class="text-xl">More experience</b>
+					<p class="text-end">July 2023 - Sep 2023</p>
 				</div>
 				<div class="spread">
-					<i>Pypup Inc.</i>
-					<i class="text-end">pypup.com</i>
+					<i>Self-Employed</i>
 				</div>
 				<ul class="list-disc list-inside pl-3 pt-1">
-					<li>Redesigned the front-end of the website using Angular and Tailwind CSS</li>
-					<li>Aided in the addition of the Rust language for code submission</li>
+					<li>Deployed 10,000 lines of code without encountering a single bug</li>
+					<li>Squashed bugs faster than you can say "Are you sure it's not a feature?"</li>
 					<li>
-						Contributed over 30 problems and provided valuable feedback about discrepancies in the
-						website
+						Implemented code that's so compact and efficient, it's practically poetry. 
 					</li>
 				</ul>
 			</div>
@@ -134,55 +110,42 @@
 			<div class="space-y-1">
 				<div class="spread">
 					<p>
-						<b class="text-lg">Programming Club Website - lucpc.org</b><br />
-						<i>Next.js, Tailwind CSS, Google Firebase</i>
+						<b class="text-lg">S3A-Net for FSL Based HSI Classification</b><br />
+						<i>Python, Tensorflow</i>
 					</p>
-					<p class="text-end">May 2023</p>
+					<p class="text-end">Present</p>
 				</div>
 				<ul class="list-disc list-inside pl-3 pt-1">
 					<li>
-						Club members are able to compete against one another through our competition page where
-						we upload weekly problems
+						Developed S3A-Net, a groundbreaking Spatial-Spectral Self-Attention Network, for hyperspectral image classification with superior results
 					</li>
 					<li>
-						Utilized the <b>Firebase Real-Time Database</b> to store user data and seamlessly implement
-						statistics for each user
+						Implemented <b>self-attention</b> mechanisms within S3A-Net to capture spatial and spectral features effectively, boosting 
+						classification model's discriminative power.
 					</li>
-					<li>Added enhanced security to block evil actors from performing unauthorized use</li>
+					<li>Integrated few-shot learning techniques into the framework, enabling accurate classification with limited labeled training samples.</li>
 				</ul>
 			</div>
 			<div class="space-y-1">
 				<div class="spread">
 					<p>
-						<b class="text-lg">Sudoku Solver </b> | <i>Rust</i>
+						<b class="text-lg">Plan-it ©</b> <br/>
+						<i>Nextjs, TailwindCSS</i>
 					</p>
 					<p class="text-end">March 2023</p>
 				</div>
 				<ul class="list-disc list-inside pl-3 pt-1">
-					<li>Developed a program to solve sudoku puzzles with a brute force algorithm</li>
 					<li>
-						Optimized the algorithm's performance to use the least amount of memory possible through
-						the use of bit manipulation
+						Led development of 'Plan-It,' a task management solution with NLP integration for streamlined organization and collaboration.
 					</li>
 					<li>
-						Integrated the solver with a <b>GUI</b> and compiled it to my website using
-						<b>Web Assembly</b>
-					</li>
-				</ul>
-			</div>
-			<div class="space-y-1">
-				<div class="spread">
-					<p>
-						<b class="text-lg">Language Interpreter </b> | <i>Rust</i>
-					</p>
-					<p class="text-end">June 2023</p>
-				</div>
-				<ul class="list-disc list-inside pl-3 pt-1">
-					<li>Developed an tree-walking interpreter for a programming language</li>
+						Overcame <b>NLP implementation</b> challenges through research, framework selection, and iterative improvement.
+						</li>
 					<li>
-						Added functionality to support conditionals, implicit and explicit returns, recursive
-						functions, closures, and a standard library
-					</li>
+						Delivered robust task management system with intuitive interfaces, collaboration features, and smart task suggestions, ensuring 
+						effective goal achievement with data security.
+						</li>
+
 				</ul>
 			</div>
 		</div>

@@ -4,18 +4,25 @@
 
 	let projects = [
 		{
-			name: 'Mini Project 2nd Year',
-			href: 'https://www.youtube.com/watch?v=PKuJoiP5wf0',
-			desc: 'Very first project in college, a simple website',
-			tool_icons: ['simple-icons:python', 'devicon-plain:pandas-wordmark', 'grommet-icons:mysql'],
+			name: 'S3A-Net for FSL Based HSI Classification',
+			href: 'https://github.com/',
+			desc: 'Experimental investigations on benchmark Hyper Spectral Images datasets',
+			tool_icons: ['simple-icons:python', 'simple-icons:tensorflow'],
 			github: true
 		},
 		{
-			name: 'agenda builder',
+			name: 'Plan - IT ©',
 			href: 'https://agenda-builder.vercel.app/',
 			desc: 'An event planning application facilitating collaborative scheduling across multiple users, featuring intuitive drag-and-drop functionality for scheduling tasks',
 			tool_icons: ['akar-icons:nextjs-fill', 'devicon-plain:javascript', 'simple-icons:mongodb'],
 			github: false
+		},
+		{
+			name: 'Project Gallery',
+			href: 'https://github.com/srshah27/project-gallery',
+			desc: 'A open source project to showcase your projects in a beautiful way The Frontend for Github',
+			tool_icons: ['akar-icons:nextjs-fill', 'devicon-plain:javascript', 'simple-icons:mongodb'],
+			github: true
 		},
 		{
 			name: 'IDF balgurukul',
@@ -25,26 +32,19 @@
 			github: false
 		},
 		{
-			name: 'cv-aditya',
+			name: 'Mini Project in P5*JS',
+			href: 'https://adityasawant0912.github.io/P5JS-MiniProjects/',
+			desc: 'Numerous mini projects utilizing P5.js, encompassing a diverse array of visualizations and applications.',
+			tool_icons: ['simple-icons:p5dotjs'],
+			github: true
+		},
+		{
+			name: 'Green Light for Emergency Vehicles',
 			href: 'https://www.youtube.com/watch?v=PKuJoiP5wf0',
-			desc: 'My personal website built with NextJS and TailwindCSS',
-			tool_icons: ['akar-icons:nextjs-fill', 'devicon-plain:javascript', 'simple-icons:mongodb'],
+			desc: 'Implementied a transponder system that communicates with traffic signals to grant priority access. ',
+			tool_icons: [],
 			github: true
 		},
-		{
-			name: 'hyperspectral image',
-			href: 'https://github.com/',
-			desc: 'Experimental investigations on benchmark Hyper Spectral Images datasets',
-			tool_icons: ['simple-icons:python', 'simple-icons:tensorflow'],
-			github: true
-		},
-		{
-			name: 'project gallery',
-			href: 'https://github.com/srshah27/project-gallery',
-			desc: 'A open source project to showcase your projects in a beautiful way The Frontend for Github',
-			tool_icons: ['akar-icons:nextjs-fill', 'devicon-plain:javascript', 'simple-icons:mongodb'],
-			github: true
-		}
 	];
 </script>
 
@@ -77,17 +77,19 @@
 <div class="text-xl space-y-12">
 	<div class="space-y-6">
 		<p>
-			I do all sorts of programming in my free time. You are currently looking at my website that I
-			built with <b>SvelteKit</b> and <b>TailwindCSS</b>. I'm well versed with other programming
-			languages such as C++, Java, Python, and Node.
+			Hey there! I'm deeply passionate about technology and as a dedicated software engineering student at SAKEC, 
+			I'm on a mission to make a meaningful impact through my work.
+			You are currently looking at my website that <b>my friends</b> built with <b>SvelteKit</b> and 
+			<b>TailwindCSS</b>. My expertise lies in <u>web development </u> and <u>software engineering</u>, 
+			with a strong command over technologies like <b>Node.js, Next.js, P5.js, PHP, Python, and JavaScript.</b>
 		</p>
 		<p>
-			I serve as <b>General Co-ordinator</b> at
-			<a class="link" href="https://www.shahandanchor.com/">CSI</a>.
+			I serve as <b>Student Co-ordinator</b> at
+			<a class="link" href="https://shahandanchor.com/csisakec/">CSI</a>.
 		</p>
 		<p>
-			As a enthusiast, I strive to <b>share knowledge</b> in all that I do, including software
-			development. I hope to create <bi>meaningful software</bi> that impacts others in a positive way.
+			I'm driven by creativity and technology's endless possibilities. Whether it's crafting elegant code 
+			or envisioning groundbreaking research, I'm committed to <u>harnessing technology for positive change and innovation.</u>
 		</p>
 		<p>
 			Working towards that goal, I am currently pursuing a <b>B.E. in Computer Science</b> at
@@ -99,10 +101,17 @@
 			solving challenges in algorithms and data structures.
 		</p>
 		<p>
-			Oh, and, I write blog posts sometimes. Feel free to <a
+			And I also like to talk about technolgies I work with sometimes. <br>
+			<a
 				target="_blank"
 				class="link"
-				href="https://www.youtube.com/watch?v=PKuJoiP5wf0">read them</a
+				href="https://www.sakec.ac.in/csi-sakec/mastering-the-web/">1. Mastering the Web</a
+			>
+			<br>
+			<a
+				target="_blank"
+				class="link"
+				href="https://www.sakec.ac.in/csi-sakec/level-up-creative-coding-with-p5-js/">2. Level Up: Creative Coding with P5*JS</a
 			>
 		</p>
 	</div>

@@ -24,17 +24,15 @@
 		<h2>Education</h2>
 		<div class="resume-content space-y-1">
 			<div class="spread">
-				<h3 class="resume-heading">Liberty University</h3>
-				<p>Lynchburg, VA</p>
+				<h3 class="resume-heading">Mumbai University</h3>
+				<i class="text-end">Aug. 2020 - May 2024</i>
 			</div>
 			<div class="spread">
 				<i class="leading-tight">
-					Bachelor of Science in Computer Science<br />
-					Minor in Mathematics
+					Bachelor of Computer Engineering<br />
 				</i>
-				<i class="text-end">Aug. 2022 - May 2026</i>
 			</div>
-			<p>GPA: <b>3.7</b></p>
+			<p>CGPA: <b>8.7</b></p>
 		</div>
 	</div>
 	<div class="resume-section">
@@ -48,11 +46,7 @@
 				NPM, MacOS
 			</p>
 			<p>
-				<b>Mathematical Proficiency: </b> Calculus, Number Theory, Discrete Mathematics
-			</p>
-			<p>
-				<b>Awards: </b> Dean's List, Placed 12th in the Mid-Atlantic Region of the International Collegiate
-				Programming Competition
+				<b>Awards: </b> Tech Expo 2024 Runner Up
 			</p>
 		</div>
 	</div>
@@ -61,7 +55,7 @@
 		<div class="resume-content space-y-5">
 			<div class="space-y-1">
 				<div class="spread">
-					<h3 class="resume-heading">Club President</h3>
+					<h3 class="resume-heading">CSI Student Co-ordinator</h3>
 					<p class="text-end">May 2023 - Present</p>
 				</div>
 				<div class="spread">

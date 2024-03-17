@@ -4,7 +4,7 @@
 		name="description"
 		content="My personal website where you can learn about me, see my resume, and some stuff that I've written"
 	/>
-	<meta name="og:title" content="Cameron Kauffman - Resume" />
+	<meta name="og:title" content="" />
 	<meta
 		name="og:description"
 		content="My personal website where you can learn about me, see my resume, and some stuff that I've written"

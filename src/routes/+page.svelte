@@ -1,11 +1,12 @@
 <script>
 	import Icon from '@iconify/svelte';
+	import { userInfo } from '$lib/Constants';
 
 	let projects = [
 		{
-			name: 'stock analysis',
-			href: 'https://github.com/srshah27/Stock-Analysis',
-			desc: 'Stock market technical analysis using python and its libraries to design algorithms for finding the Demand and Supply zone.',
+			name: 'Mini Project 2nd Year',
+			href: 'https://www.youtube.com/watch?v=PKuJoiP5wf0',
+			desc: 'Very first project in college, a simple website',
 			tool_icons: ['simple-icons:python', 'devicon-plain:pandas-wordmark', 'grommet-icons:mysql'],
 			github: true
 		},
@@ -24,8 +25,8 @@
 			github: false
 		},
 		{
-			name: 'srshah.me',
-			href: 'https://github.com/srshah27/srshah27',
+			name: 'cv-aditya',
+			href: 'https://www.youtube.com/watch?v=PKuJoiP5wf0',
 			desc: 'My personal website built with NextJS and TailwindCSS',
 			tool_icons: ['akar-icons:nextjs-fill', 'devicon-plain:javascript', 'simple-icons:mongodb'],
 			github: true
@@ -48,7 +49,7 @@
 </script>
 
 <svelte:head>
-	<title>sr.shah</title>
+	<title>{userInfo.name}</title>
 	<meta
 		name="description"
 		content="My personal website where you can learn about me, see my resume, and some stuff that I've written"
@@ -56,7 +57,7 @@
 	<meta name="og:title" content="Snehil Shah" />
 	<meta
 		name="og:description"
-		content="My personal website where you can learn about me, see my resume, and some stuff that I've written"
+		content="My personal website wh	ere you can learn about me, see my resume, and some stuff that I've written"
 	/>
 	<meta name="og:type" content="website" />
 	<meta name="og:url" content="https://srshah.me" />
@@ -69,8 +70,8 @@
 </svelte:head>
 
 <div class="pb-6">
-	<h1 class="text-4xl sm:text-5xl my-0">Hi, I'm Aditya 🦥</h1>
-	<p class="text-lg text-neutral-500">software engineer, enthusiast, and student</p>
+	<h1 class="text-4xl sm:text-5xl my-0">Hi, I'm {userInfo.name} 🦥</h1>
+	<p class="text-lg text-neutral-500">{userInfo.description}</p>
 </div>
 
 <div class="text-xl space-y-12">
@@ -101,7 +102,7 @@
 			Oh, and, I write blog posts sometimes. Feel free to <a
 				target="_blank"
 				class="link"
-				href="https://srshah.me/blogs">read them</a
+				href="https://www.youtube.com/watch?v=PKuJoiP5wf0">read them</a
 			>
 		</p>
 	</div>

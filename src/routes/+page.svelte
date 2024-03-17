@@ -69,7 +69,7 @@
 </svelte:head>
 
 <div class="pb-6">
-	<h1 class="text-4xl sm:text-5xl my-0">Hi, I'm Snehil 💖</h1>
+	<h1 class="text-4xl sm:text-5xl my-0">Hi, I'm Aditya 🦥</h1>
 	<p class="text-lg text-neutral-500">software engineer, enthusiast, and student</p>
 </div>
 
@@ -81,8 +81,8 @@
 			languages such as C++, Java, Python, and Node.
 		</p>
 		<p>
-			I serve as <b>Projects Lead</b> at
-			<a class="link" href="https://www.shahandanchor.com/research/">Research Cell</a>.
+			I serve as <b>General Co-ordinator</b> at
+			<a class="link" href="https://www.shahandanchor.com/">CSI</a>.
 		</p>
 		<p>
 			As a enthusiast, I strive to <b>share knowledge</b> in all that I do, including software

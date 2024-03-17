@@ -8,4 +8,3 @@
 <main class="pt-12 layout-md">
 	<slot />
 </main>
-

@@ -29,7 +29,7 @@
 		<bi
 			class="my-2 text-xl sm:text-2xl font-livory italic font-bold text-[105%] leading-[100%] text-black dark:text-white"
 		>
-			<a href="/">Snehil Shah</a>
+			<a href="/">Aditya Sawant</a>
 			{#if page_title}
 				<span class="font-normal text-neutral-800 dark:text-neutral-200">
 					<span class="text-neutral-500 hidden sm:inline">—</span>

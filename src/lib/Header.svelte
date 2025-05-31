@@ -2,8 +2,7 @@
 	import { page } from '$app/stores';
 
 	const links = [
-		{ name: 'writing', href: '/blog' },
-		// { name: 'webasm', href: 'https://projects.cameron.rs' },
+		{ name: 'writing', href: '/blogs' },
 		{ name: 'resume', href: '/resume' }
 	];
 

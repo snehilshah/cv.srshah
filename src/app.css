@@ -2,34 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-	html {
-		font-size: 14px;
-		scroll-behavior: smooth;
-		scrollbar-color: #545454 #262626;
-	}
-	body {
-		@apply bg-white text-neutral-800 dark:bg-neutral-900 dark:text-[#D4D4D4];
-		@apply sm:pb-12;
-	}
-
-	.text-accent {
-		@apply text-emerald-500;
-	}
-
-	.text-accent-opaque {
-		@apply text-[#03BA7C]/80;
-	}
-
-	b {
-		@apply text-black dark:text-white;
-	}
-
-	.mono {
-		@apply font-mono text-[85%] leading-[100%];
-	}
-}
-
 .layout-md {
 	@apply max-w-screen-md mx-auto px-4 md:px-2;
 }
@@ -62,4 +34,32 @@ h2 {
 
 .dark-accent {
 	@apply border-[#27272A];
+}
+
+@layer base {
+	html {
+		font-size: 14px;
+		scroll-behavior: smooth;
+		scrollbar-color: #545454 #262626;
+	}
+	body {
+		@apply bg-white text-neutral-800 dark:bg-neutral-900 dark:text-[#D4D4D4];
+		@apply sm:pb-12;
+	}
+
+	.text-accent {
+		@apply text-emerald-500;
+	}
+
+	.text-accent-opaque {
+		@apply text-[#03BA7C]/80;
+	}
+
+	b {
+		@apply text-black dark:text-white;
+	}
+
+	.mono {
+		@apply font-mono text-[85%] leading-[100%];
+	}
 }
